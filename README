@@ -1,0 +1,4 @@
+# Multiple Sclerosis Conversion Predictor
+This is a Random Forest Classifier that predicts if Clinically Isolated Syndrome (CIS) will develop into Multiple Sclerosis (MS).
+Dataset: https://www.kaggle.com/datasets/desalegngeb/conversion-predictors-of-cis-to-multiple-sclerosis/data
+Results: 98% test accuracy, 0.97 recall on instances of CIS -> MS development
